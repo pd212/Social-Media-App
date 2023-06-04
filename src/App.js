@@ -40,20 +40,3 @@ export default App;
 
 
 
-// import React from 'react';
-// import { BrowserRouter as Router, Route } from 'react-router-dom';
-// import ItemDetail from './components/ItemDetail';
-// import Home from './components/Home'; 
-
-
-// const App = () => {
-//   return (
-//     <Router>
-//       <Route exact path="/" component={Home} />
-//       <Route exact path="/item/:postId" component={ItemDetail} />
-//     </Router>
-
-//   );
-// };
-
-// export default App;
