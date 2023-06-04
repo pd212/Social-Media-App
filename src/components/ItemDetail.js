@@ -41,24 +41,3 @@ export default ItemDetail;
 
 
 
-
-
-
-// import React from 'react';
-// import { useSelector } from 'react-redux';
-
-// const ItemDetail = ({ match }) => {
-//   const { postId } = match.params;
-//   const { posts } = useSelector((state) => state.posts);
-//   const post = posts.find((post) => post.id === Number(postId));
-
-//   return (
-//     <div>
-//       <h2>{post.title}</h2>
-//       <p>{post.body}</p>
-//       <p>Created by User ID: {post.userId}</p>
-//     </div>
-//   );
-// };
-
-// export default ItemDetail;
