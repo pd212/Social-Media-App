@@ -1,0 +1,75 @@
+/* Home.css */
+body{
+    position: relative;
+width: 1600px;
+height: 2380px;
+
+background: #111111;
+}
+h1{
+    /* position: absolute; */
+width: 262px;
+height: 39px;
+left: 32px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+/* .container1 {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  } */
+  .container2 {
+    display: inline-block; /* Add this to make the containers display inline */
+    width: 220px; /* Adjust the width as needed */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin:  10px 20px; /* Add margin to create spacing between containers */
+    vertical-align: top; /* Add this to align the containers vertically */
+  }
+  .container2 h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+
+
+
+color: rgba(255, 255, 255, 0.5);
+  }
+  .container2 p {
+    font-size: 16px;
+  margin-bottom: 10px;
+    left: 93px;
+    top: 670px;
+
+color: rgba(255, 255, 255, 0.5);
+  }
+  .container2 img {
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+    left : 97px;
+    top : 160px;
+   
+  }
+  
+  .container2 a {
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .container2 a:hover {
+    text-decoration: underline;
+  }

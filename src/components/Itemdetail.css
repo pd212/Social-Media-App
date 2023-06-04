@@ -1,0 +1,96 @@
+/* ItemDetail.css */
+.item-detail body {
+    position: relative;
+    width: 1915px;
+    height: 2380px;
+
+    background: #111111;
+}
+
+.item-detail {
+    width: 700px;
+    height: 58px;
+    left: 32px;
+    top: 128px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+
+.item-detail h1 {}
+
+.item-detail img {
+    width: 383px;
+    height: 383px;
+    left: 32px;
+    top: 245px;
+
+}
+
+.item-info {
+    flex: 1;
+}
+
+.item-info h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.item-info p {
+
+    width: 582px;
+    height: 58px;
+    left: 54px;
+    top: 683px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+.item-detail p2 {
+
+    width: 1724px;
+    height: 191px;
+    left: 54px;
+    top: 863px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #FFFFFF;
+}
+
+.item-detail h2 {
+    width: 788px;
+    height: 58px;
+    left: 32px;
+    top: 128px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
