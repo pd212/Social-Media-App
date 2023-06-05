@@ -16,7 +16,7 @@ const Home = () => {
 
   return (
     <div className='container1'>
-      <h1>Social Media</h1>
+      <h1>Social Media App</h1>
       {posts.map((post) => (
         <div className='container2' key={post.id}>
           <h2>{post.title.slice(0, 20)}</h2>
